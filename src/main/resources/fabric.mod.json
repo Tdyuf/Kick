@@ -15,7 +15,7 @@
   "environment": "client",
   "entrypoints": {
     "main": [
-      "com.example.ExampleMod"
+      "com.example.ExampleMod.java"
     ]
   },
   "depends": {
